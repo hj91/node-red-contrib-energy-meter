@@ -47,4 +47,4 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 ## Testing 
 
-This node  was tested with Eastron SDM 120CT energy meter. Please submit patches in case it does not work for other meters from the manufacturer. Note - you will be required to install node-red-contrib-modbus to read modbus data from energy meter. This node only translates modbus data into Human readable format. 
+This node  was tested with Eastron SDM 120CT energy meter. Please submit patches in case it does not work for other meters from the manufacturer. Note - you will be required to install node-red-contrib-modbus to read modbus data from energy meter. This node only translates modbus data into Human readable format.
